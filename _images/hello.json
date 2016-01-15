@@ -1,3 +1,3 @@
 ---
 ---
-{"image":"hello","date":"2016-01-15T17:49:40Z","buildurl":"snapshot","packager":"linuxbrew","homepage":"https://www.gnu.org/software/hello/","description":"Program providing model for GNU coding standards and practices","version":"2.10","checksum":"sha256:cf226f7f9e08ed3445ae5ac3a33b670896868f98067771fb084554500a3ba2c8","size":"2091350"}
+{"image":"hello","date":"2016-01-15T18:46:10Z","buildurl":"snapshot","packager":"linuxbrew","homepage":"https://www.gnu.org/software/hello/","description":"Program providing model for GNU coding standards and practices","version":"2.10","checksum":"sha256:c67de0e7c7337cbe6805f4539b60030a6e5318fc0cdf4af19b38ae97583efee5","size":"2091350"}
