@@ -1,2 +1,4 @@
 collections:
-- images
+  images:
+    output: true
+    permalink: /v1/images/:title.json
