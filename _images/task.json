@@ -1,3 +1,3 @@
 ---
 ---
-{"image":"task","date":"2016-01-15T13:56:07Z","buildurl":"https://travis-ci.org/thriqon/mulled/builds/102595241","packager":"alpine","homepage":"http://taskwarrior.org","description":"A command-line to do list manager","version":"2.4.4-r0","checksum":"7581560","size":""}
+{"image":"task","date":"2016-01-15T18:54:11Z","buildurl":"snapshot","packager":"alpine","homepage":"http://taskwarrior.org","description":"A command-line to do list manager","version":"2.4.4-r0","checksum":"sha256:79e374af4d29ab1929b30bb3e1daf3c4325edaeed919c522d1775a1b7cfa2dc1","size":"7581678"}
