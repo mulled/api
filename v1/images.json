@@ -1,0 +1,5 @@
+---
+---
+[{%for img in site.images %}
+{{img.content}}{% unless forloop.last == true %}, {%endunless %}
+{% endfor %}]
