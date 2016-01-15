@@ -1,3 +1,3 @@
 ---
 ---
-{"image":"mtr","date":"2016-01-15T13:56:39Z","buildurl":"https://travis-ci.org/thriqon/mulled/builds/102595241","packager":"alpine","homepage":"http://www.bitwizard.nl/mtr/","description":"Full screen ncurses traceroute tool","version":"0.82-r1","checksum":"2285574","size":""}
+{"image":"mtr","date":"2016-01-15T18:54:41Z","buildurl":"snapshot","packager":"alpine","homepage":"http://www.bitwizard.nl/mtr/","description":"Full screen ncurses traceroute tool","version":"0.82-r1","checksum":"sha256:cad433bbe5e72090277b9737c562cc3753f860514641aecb0f9afc0ccbea95ec","size":"2285692"}
