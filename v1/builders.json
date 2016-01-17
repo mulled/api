@@ -1,0 +1,5 @@
+---
+---
+[{%for b in site.builders %}
+{{b.content}}{% unless forloop.last == true %}, {%endunless %}
+{% endfor %}]
