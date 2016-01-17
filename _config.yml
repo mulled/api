@@ -2,7 +2,6 @@ collections:
   images:
     output: true
     permalink: /v1/images/:title.json
-collections:
   builders:
     output: true
     permalink: /v1/builders/:title.json
