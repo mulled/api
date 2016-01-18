@@ -1,3 +1,3 @@
 ---
 ---
-{"image":"m4","date":"2016-01-18T11:04:58Z","buildurl":"snapshot","packager":"conda","homepage":"http://www.gnu.org/software/m4/","description":"","version":"1.4.17","checksum":"sha256:55459cef08b954bb94c019555e5880edff3458ecbace19dbf7bb29a76d2f2b94","size":"5739009"}
+{"image":"m4","date":"2016-01-18T15:23:54Z","buildurl":"snapshot","packager":"conda","homepage":"http://www.gnu.org/software/m4/","description":"","version":"1.4.17--0","checksum":"sha256:cb4224a7362ccc759b768362711b825f7858dca63a570e9b956091c7485c256b","size":"5739027"}
