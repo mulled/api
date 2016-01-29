@@ -1,3 +1,0 @@
----
----
-{"image":"curl","date":"2016-01-21T12:34:32Z","buildurl":"snapshot","packager":"conda","homepage":"http://www.curl.haxx.se/","description":"curl is an open source command line tool and library for transferring data with URL syntax","version":"7.45.0--1","checksum":"sha256:eefabe5987949fc10cd6c37832e825ef6e1212a3b6c1e811fda2c242b26211bb","size":"19530933"}
