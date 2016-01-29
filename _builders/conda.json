@@ -2,5 +2,6 @@
 ---
 {
 	"name": "conda",
-	"homepage": "http://conda.pydata.org/miniconda.html"
+	"homepage": "http://conda.pydata.org/miniconda.html",
+	"explicitVersioning": true
 }
