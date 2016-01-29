@@ -1,0 +1,3 @@
+---
+---
+{"image":"tmux","packager":"conda","homepage":"http://tmux.sourceforge.net","description":"tmux is a terminal multiplexer.","versions":[{"version":"1.9a--1","revision":"1.9a--1","size":"15877602","date":"2016-01-29T22:19:54Z"},{"version":"2.1--1","revision":"2.1--1","size":"15925364","date":"2016-01-29T22:20:13Z"}],"buildurl":"https://travis-ci.org/mulled/mulled/builds/105783287"}
