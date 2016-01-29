@@ -1,0 +1,3 @@
+---
+---
+{"image":"sha2","packager":"linuxbrew","homepage":"http://aarongifford.com/computers/sha.html","description":"Implementation of SHA-256, SHA-384, and SHA-512 hash algorithms","versions":[{"version":"1.0.1","revision":"1","size":"1992543","date":"2016-01-29T18:40:23Z"}],"buildurl":"https://travis-ci.org/mulled/mulled/builds/105738054"}

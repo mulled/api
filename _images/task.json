@@ -1,0 +1,3 @@
+---
+---
+{"image":"task","packager":"alpine","homepage":"http://taskwarrior.org","description":"A command-line to do list manager","versions":[{"version":"2.5.0-r0","revision":"1","size":"8080838","date":"2016-01-29T18:40:40Z"}],"buildurl":"https://travis-ci.org/mulled/mulled/builds/105738054"}
