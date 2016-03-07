@@ -1,0 +1,3 @@
+---
+---
+{"image":"pyrad","packager":"conda","homepage":"https://github.com/wichert/pyrad","description":"Assembly and analysis of RADseq data sets","versions":[{"version":"3.0.64--py27_0","revision":"3.0.64--py27_0","size":"676982871","date":"2016-03-07T16:20:21Z"}],"buildurl":"https://travis-ci.org/mulled/mulled/builds/114278635"}
