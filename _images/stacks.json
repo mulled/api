@@ -1,0 +1,3 @@
+---
+---
+{"image":"stacks","packager":"conda","homepage":"http://catchenlab.life.illinois.edu/stacks/","description":"Stacks is a software pipeline for building loci from RAD-seq","versions":[{"version":"1.37--0","revision":"1.37--0","size":"100221003","date":"2016-03-07T17:07:02Z"}],"buildurl":"https://travis-ci.org/mulled/mulled/builds/114290346"}
